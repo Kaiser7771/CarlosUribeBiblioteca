@@ -1,1 +1,1 @@
-commit en la rama master. el proyecto permite crear y prestar libros y revistas, si son prestables. no permite prestar libros antes de 1923, y registra por medio de map y arraylist los libros y revistas y a quien se les prestan
+commit en la rama master. el proyecto permite crear y prestar libros y revistas, si son prestables. no permite prestar libros antes de 1923, y registra por medio de map y arraylist los libros y revistas y a quien se les prestan. la clase sistema es la que maneja toda la logica
